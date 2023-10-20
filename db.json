@@ -1,1 +1,119 @@
-{}
+{
+    "users": [
+        {
+            "id": 0,
+            "user_uuid": "44d3dc3d-d7c8-4207-bcff-f58df362a641",
+            "username": "Painting with Bob Ross",
+            "handle": "bobross",
+            "bio": "Learn how to paint those happy little trees",
+            "link": "https://www.bobross.com",
+            "img": "",
+            "instagram_url": "https://www.instagram.com/bobross/",
+            "followers": [
+                {
+                    "user_uuid": "fcb18cb5-5046-4f44-988d-95b820954e5b"
+                },
+                {
+                    "user_uuid": "c96559e3-7648-4f82-bdc9-3c3f8020f3cd"
+                },
+                {
+                    "user_uuid": "43ced97a-1bea-4fde-9b0f-ce9da8385f6c"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "user_uuid": "fcb18cb5-5046-4f44-988d-95b820954e5b",
+            "username": "Bob's Burgers",
+            "handle": "bobsburgers",
+            "bio": "Bob sells burgers, and you buy them.",
+            "link": "https://bobsburgers.com",
+            "img": "",
+            "instagram_url": "https://www.instagram.com/bobsburgers/",
+            "followers": [
+                {
+                    "user_uuid": "c96559e3-7648-4f82-bdc9-3c3f8020f3cd"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "user_uuid": "4b551f30-12fa-4ba8-933e-5e3355a31287",
+            "username": "Empty House with Bob Saget",
+            "handle": "bobsaget",
+            "bio": "What happens when Bob Saget has had enough.",
+            "link": "https://www.bobsaget.com",
+            "img": "",
+            "instagram_url": "https://www.instagram.com/bobsaget/",
+            "followers": [
+                {
+                    "user_uuid": "fcb18cb5-5046-4f44-988d-95b820954e5b"
+                },
+                {
+                    "user_uuid": "c96559e3-7648-4f82-bdc9-3c3f8020f3cd"
+                }
+            ]
+        }
+    ],
+    "threads": [
+        {
+            "id": 0,
+            "timestamp": "Fri Oct 20 2023 12:50:45 GMT-0700 (Pacific Daylight Time)",
+            "thread_from": "44d3dc3d-d7c8-4207-bcff-f58df362a641",
+            "thread_to": null,
+            "reply_to": null,
+            "text": "I'm a bot, I'm a bot, I'm a bot, I'm a bot",
+            "likes": [
+                {
+                    "uuid": "fcb18cb5-5046-4f44-988d-95b820954e5b"
+                },
+                {
+                    "uuid": "4b551f30-12fa-4ba8-933e-5e3355a31287"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "timestamp": "Sun Oct 15 2023 10:30:45 GMT-0700 (Pacific Daylight Time)",
+            "thread_from": "44d3dc3d-d7c8-4207-bcff-f58df362a641",
+            "thread_to": null,
+            "reply_to": null,
+            "text": "Another awesome thread!",
+            "likes": []
+        },
+        {
+            "id": 2,
+            "timestamp": "Sat Oct 14 2023 8:13:45 GMT-0700 (Pacific Daylight Time)",
+            "thread_from": "44d3dc3d-d7c8-4207-bcff-f58df362a641",
+            "thread_to": null,
+            "reply_to": null,
+            "text": "Anyone out there?",
+            "likes": [
+                {
+                    "uuid": "fcb18cb5-5046-4f44-988d-95b820954e5b"
+                },
+                {
+                    "uuid": "4b551f30-12fa-4ba8-933e-5e3355a31287"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "timestamp": "Fri Oct 20 2023 12:30:45 GMT-0700 (Pacific Daylight Time)",
+            "thread_from": "fcb18cb5-5046-4f44-988d-95b820954e5b",
+            "thread_to": null,
+            "reply_to": null,
+            "text": "Come get your burgerz",
+            "likes": []
+        },
+        {
+            "id": 0,
+            "timestamp": "Fri Oct 20 2023 12:35:45 GMT-0700 (Pacific Daylight Time)",
+            "thread_from": "44d3dc3d-d7c8-4207-bcff-f58df362a641",
+            "thread_to": "fcb18cb5-5046-4f44-988d-95b820954e5b",
+            "reply_to": 3,
+            "text": "Ooooo I'm on my way",
+            "likes": []
+        }
+    ]
+}
