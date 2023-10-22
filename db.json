@@ -7,7 +7,7 @@
             "handle": "bobross",
             "bio": "Learn how to paint those happy little trees",
             "link": "https://www.bobross.com",
-            "img": "",
+            "img": "https://upload.wikimedia.org/wikipedia/en/7/70/Bob_at_Easel.jpg",
             "instagram_url": "https://www.instagram.com/bobross/",
             "followers": [
                 {
@@ -28,7 +28,7 @@
             "handle": "bobsburgers",
             "bio": "Bob sells burgers, and you buy them.",
             "link": "https://bobsburgers.com",
-            "img": "",
+            "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/Bob_Belcher_3.png",
             "instagram_url": "https://www.instagram.com/bobsburgers/",
             "followers": [
                 {
@@ -43,7 +43,7 @@
             "handle": "bobsaget",
             "bio": "What happens when Bob Saget has had enough.",
             "link": "https://www.bobsaget.com",
-            "img": "",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bob_Saget%2C_Behind_The_Velvet_Rope_TV_.05.jpg",
             "instagram_url": "https://www.instagram.com/bobsaget/",
             "followers": [
                 {
